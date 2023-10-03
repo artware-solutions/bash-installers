@@ -1,5 +1,5 @@
 # bash-scripts
-Here is my collection of bash installers to automate tasks
+This is my collection of bash scripts to automate tasks
 
 ## Docker: docker-installer.sh
 1. Save the file *docker-installer.sh* locally
