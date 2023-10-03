@@ -1,4 +1,4 @@
-# bash-installers
+# bash-scripts
 Here is my collection of bash installers to automate tasks
 
 ## Docker: docker-installer.sh
